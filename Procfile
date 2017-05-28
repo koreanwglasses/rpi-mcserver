@@ -1,1 +1,1 @@
-program: ./run.sh
+program: java -jar spigot-1.11.2.jar
