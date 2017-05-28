@@ -1,1 +1,3 @@
-program: java -jar spigot-1.11.2.jar
+---
+default_process_types:
+    web: java -jar application.jar
