@@ -1,1 +1,1 @@
-program: run.sh
+program: ./run.sh
